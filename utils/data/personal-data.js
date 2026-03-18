@@ -15,5 +15,5 @@ export const personalData = {
   leetcode: "",
   discord: "https://discord.com/users/1400920869018009710",
   devUsername: "muddasirx",
-  resume: "https://drive.google.com/file/d/1Ecxva-KlGc7i7gKl2Gbubwh32r44wV9g/view?usp=sharing"
+  resume: "https://drive.google.com/file/d/1Ecxva-KlGc7i7gKl2Gbubwh32r44wV9g/view?usp=sharing" 
 }
