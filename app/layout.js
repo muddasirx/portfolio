@@ -10,7 +10,7 @@ import "./css/globals.scss";
 const inter = Inter({ subsets: ["latin"] });
 
 export const metadata = {
-  title: "Portfolio of Muhammad Muddasir - DevOps Engineer",
+  title: "Muhammad Muddasir | DevOps & Cloud Engineer",
   description:""
 };
 
