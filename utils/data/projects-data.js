@@ -16,7 +16,7 @@ export const projectsData = [
         code: '',
         role: 'DevOps Engineer',
         demo: '',
-    }
+    },
     {
         id: 3,
         name: 'Flask App Deployment on AWS ECS',
