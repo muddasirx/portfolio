@@ -7,6 +7,7 @@ export const skillsData = [
   'Azure',
   'Docker',
   'Docker Compose',
+  'kubernetes',
   'GitLab',
   'Nginx',
   'Firebase',
