@@ -106,7 +106,7 @@ export const skillsImage = (skill) => {
       return gcp;
     case 'ansible':
       return ansible;
-    case 'argocd':
+    case 'argo cd':
       return argocd;
     case 'bash':
       return bash;
@@ -116,7 +116,7 @@ export const skillsImage = (skill) => {
       return github;
     case 'github Actions':
       return githubActions;
-    case 'gitlab':
+    case 'gitlab ci':
       return gitlab;
     case 'grafana':
       return grafana;
@@ -152,8 +152,8 @@ export const skillsImage = (skill) => {
       return javascript;
     case 'next js':
       return nextJS;
-    case 'nuxt js':
-      return nuxtJS;
+    case 'next js':
+      return nextJS;
     case 'react':
       return react;
     case 'svelte':
