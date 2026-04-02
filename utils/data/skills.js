@@ -9,6 +9,7 @@ export const skillsData = [
   'Docker Compose',
   'kubernetes',
   'GitLab CI',
+  'Prometheus',
   'Grafana',
   'Terraform',
   'Argo CD',

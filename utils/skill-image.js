@@ -95,6 +95,7 @@ import gitlab from '../app/assets/svg/skills/gitlab.svg';
 import grafana from '../app/assets/svg/skills/grafana.svg';
 import jenkins from '../app/assets/svg/skills/jenkins.svg';
 import terraform from '../app/assets/svg/skills/terraform.svg';
+import prometheus from '../app/assets/svg/skills/prometheus.svg';
 
 
 
@@ -102,6 +103,8 @@ import terraform from '../app/assets/svg/skills/terraform.svg';
 export const skillsImage = (skill) => {
   const skillID = skill.toLowerCase();
   switch (skillID) {
+    case 'prometheus':
+      return prometheus;
     case 'gcp':
       return gcp;
     case 'ansible':
