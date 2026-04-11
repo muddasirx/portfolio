@@ -2,7 +2,7 @@ export const experiences = [
   {
     id: 1,
     title: 'DevOps Engineer',
-    company: "Personal Projects",
+    company: "FreeLancer (Remote)",
     duration: "(Jan 2026 - Present)"
   }//,
   // {
