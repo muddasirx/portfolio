@@ -25,6 +25,15 @@ export const projectsData = [
         code: '',
         role: 'DevOps Engineer',
         demo: '',
+    },
+    {
+        id: 4,
+        name: 'End-to-End DevSecOps Pipeline Implementation',
+        description: "Built an end-to-end DevSecOps pipeline using GitLab CI and Argo CD, deploying an e-commerce app on a Kubernetes (Kind) cluster. Automated image build, scan (AWS ECR), and GitOps-based deployment, with Ingress, HPA scaling, Helm setup, IAM-secured access, and monitoring via Prometheus and Grafana.",
+        tools: ['GitLab CI/CD' , 'Argo CD' , 'Kubernetes (Kind)' , 'Docker' , 'AWS ECR' , 'Helm' , 'Prometheus' , 'Grafana' , 'AWS IAM' , 'AWS EC2'],
+        code: '',
+        role: 'DevOps Engineer',
+        demo: '',
     }
 ];
 
