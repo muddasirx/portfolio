@@ -87,7 +87,7 @@ function HeroSection() {
             <code className="font-mono text-xs md:text-sm lg:text-base">
               <div className="blink">
                 <span className="mr-2 text-pink-500">const</span>
-                <span className="mr-2 text-white">dev</span>
+                <span className="mr-2 text-white">engr</span>
                 <span className="mr-2 text-pink-500">=</span>
                 <span className="text-gray-400">{'{'}</span>
               </div>
@@ -102,9 +102,9 @@ function HeroSection() {
                 <span className="text-gray-400">{`['`}</span>
                 <span className="text-amber-300">Linux</span>
                 <span className="text-gray-400">{"', '"}</span>
-                <span className="text-amber-300">Shell Scripting</span>
+                <span className="text-amber-300">Bash</span>
                 <span className="text-gray-400">{"', '"}</span>
-                <span className="text-amber-300">Python Scripting</span>
+                <span className="text-amber-300">Python</span>
                 <span className="text-gray-400">{"', '"}</span>
                 <span className="text-amber-300">Docker</span>
                 <span className="text-gray-400">{"', '"}</span>

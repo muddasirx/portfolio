@@ -1,8 +1,8 @@
 export const personalData = {
   name: "Muhammad Muddasir",
   profile: '/profile.jpg',
-  designation: "DevOps Engineer",
-  description: "I am a DevOps engineer with hands-on experience in Linux system administration, Cloud Computing and CI/CD. I automate workflows using scripting, manage servers, and deploy cloud-based solutions designed for reliability and scalability. I also have experience working with relational and non-relational databases. I work effectively in both team-based and independent environments and consistently deliver under pressure while continuously improving my skills through hands-on projects and real-world problem solving.",
+  designation: "DevOps & Cloud Engineer",
+  description: "DevOps & Cloud Engineer with hands-on experience in CI/CD pipeline automation, containerization, and cloud infrastructure deployment on AWS, Microsoft Azure, and Google Cloud Platform (GCP). Skilled in building scalable, containerized applications using Docker, Kubernetes, and GitLab CI/CD. Experienced in implementing GitOps practices with ArgoCD and monitoring systems using Prometheus and Grafana. Strong foundation in Linux system administration and cloud-native architecture, focused on automating infrastructure and improving deployment efficiency.",
   email: 'muhammadmuddasir.dev@gmail.com',
   phone: '+92 3169673611',
   address: 'Jhangi Syedan, Isamabad, Pakistan',
