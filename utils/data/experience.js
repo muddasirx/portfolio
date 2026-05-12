@@ -3,14 +3,14 @@ export const experiences = [
     id: 1,
     title: 'DevOps Engineer',
     company: "FreeLancer (Remote)",
-    duration: "(Jan 2026 - Present)"
-  }//,
-  // {
-  //   id: 2,
-  //   title: "FullStack Developer",
-  //   company: "Fiverr (freelance)",
-  //   duration: "(Jun 2021 - Jan 2022)"
-  // },
+    duration: "(Jan 2026 - April 2026)"
+  },
+  {
+    id: 2,
+    title: "Cloud Intern",
+    company: "Cloudelligent (Onsite)",
+    duration: "(May 2026 - Present)"
+  },
   // {
   //   id: 3,
   //   title: "Self Employed",
